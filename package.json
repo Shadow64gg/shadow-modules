@@ -7,7 +7,7 @@
   "types": "./dist/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ItzDerock/discord-html-transcripts.git"
+    "url": "git+https://github.com/Shadow64gg/shadow-modules/tree/shadow-transcripts"
   },
   "keywords": [
     "discord.js",
