@@ -29,7 +29,6 @@ This module can format the following:
 
 **This module is designed to work with [discord.js](https://discord.js.org/#/) v14/v15 _only_. If you need v13 support, roll back to v2.X.X**
 
-Styles from [@derockdev/discord-components](https://github.com/ItzDerock/discord-components).  
 Behind the scenes, this package uses React SSR to generate a static site.
 
 ## 👋 Support
