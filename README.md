@@ -1,6 +1,6 @@
 # `discord-html-transcripts`
 
-[![Discord](https://img.shields.io/discord/1301396266479124501?label=discord)](https://discord.gg/9HYB4n3Dz4)
+![Discord](https://img.shields.io/discord/1301396266479124501)
 ![NPM Version](https://img.shields.io/npm/v/shadow-transcripts?style=flat&label=version)
 
 
