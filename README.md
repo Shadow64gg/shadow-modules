@@ -1,8 +1,8 @@
 # `discord-html-transcripts`
 
 [![Discord](https://img.shields.io/discord/555474311637499955?label=discord)](https://discord.gg/9HYB4n3Dz4)
-![GitHub package.json version]([https://img.shields.io/github/package-json/v/ItzDerock/discord-html-transcripts](https://img.shields.io/npm/v/shadow64gg%2Fshadow-transcripts?style=flat&label=version&link=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2Fshadow-transcripts%3FactiveTab%3Dreadme
-))
+![GitHub package.json version](https://img.shields.io/npm/v/shadow64gg%2Fshadow-transcripts?style=flat&label=version&link=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2Fshadow-transcripts%3FactiveTab%3Dreadme
+)
 
 Discord HTML Transcripts is a node.js module to generate nice looking HTML transcripts. Processes discord markdown like **bold**, _italics_, ~~strikethroughs~~, and more. Nicely formats attachments and embeds. Built in XSS protection, preventing users from inserting arbitrary html tags.
 
