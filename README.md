@@ -1,6 +1,7 @@
 # `discord-html-transcripts`
 
 ![Discord](https://img.shields.io/discord/1301396266479124501)
+![NPM Downloads](https://img.shields.io/npm/dw/shadow-transcripts?link=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2Fshadow-transcripts%3FactiveTab%3Dreadme)
 ![NPM Version](https://img.shields.io/npm/v/shadow-transcripts?style=flat&label=version)
 
 
