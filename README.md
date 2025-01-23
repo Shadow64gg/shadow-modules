@@ -31,11 +31,11 @@ Behind the scenes, this package uses React SSR to generate a static site.
 ## 👋 Support
 
 Please do not DM me requesting support with this package, I will not respond.  
-Instead, please open a thread on [this](https://discord.gg/MZQN8QMJg8) server.
+Instead, please open a thread on [this](https://discord.gg/9HYB4n3Dz4) server.
 
 ## 🖨️ Example Output
 
-![output](https://derock.media/r/6G6FIl.gif)
+![output](https://cdn.discordapp.com/attachments/1301409004248891443/1332064718558335028/2025-01-23_20-08-00.mp4?ex=6793e571&is=679293f1&hm=f70212b3edf3670d1ebc4d831ac1ddfa7f5dc0f6077f32a8fbbff49e3325ca46&)
 
 ## 📝 Usage
 
