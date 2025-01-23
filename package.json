@@ -1,9 +1,9 @@
 {
   "name": "shadow-transcripts",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Transcript creation module in the discord bot.",
   "main": "dist/index.js",
-  "homepage": "https://github.com/Shadow64gg/DBM-14",
+  "homepage": "https://github.com/Shadow64gg",
   "types": "./dist/index.d.ts",
   "repository": {
     "type": "git",
