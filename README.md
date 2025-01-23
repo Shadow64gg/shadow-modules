@@ -9,9 +9,6 @@ Discord HTML Transcripts is a node.js module to generate nice looking HTML trans
 
 This module can format the following:
 
-- Discord flavored markdown
-  - Uses [discord-markdown-parser](https://github.com/ItzDerock/discord-markdown-parser)
-  - Allows for complex markdown syntax to be parsed properly
 - Embeds
 - System messages
   - Join messages
