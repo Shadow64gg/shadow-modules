@@ -38,8 +38,8 @@ Instead, please open a thread on [this](https://discord.gg/9HYB4n3Dz4) server.
 ### Example usage using the built in message fetcher.
 
 ```js
-const discordTranscripts = require('discord-html-transcripts');
-// or (if using typescript) import * as discordTranscripts from 'discord-html-transcripts';
+const discordTranscripts = require('shadow-transcripts');
+// or (if using typescript) import * as discordTranscripts from 'shadow-transcripts';
 
 const channel = message.channel; // or however you get your TextChannel
 
@@ -54,8 +54,8 @@ channel.send({
 ### Or if you prefer, you can pass in your own messages.
 
 ```js
-const discordTranscripts = require('discord-html-transcripts');
-// or (if using typescript) import * as discordTranscripts from 'discord-html-transcripts';
+const discordTranscripts = require('shadow-transcripts');
+// or (if using typescript) import * as discordTranscripts from 'shadow-transcripts';
 
 const messages = someWayToGetMessages(); // Must be Collection<string, Message> or Message[]
 const channel = someWayToGetChannel(); // Used for ticket name, guild icon, and guild name
@@ -88,7 +88,7 @@ const attachment = await discordTranscripts.createTranscript(channel, {
       resolveUser: (userId: string) => Awaitable<User | null>,
       resolveRole: (roleId: string) => Awaitable<Role | null>
     },
-    poweredBy: true, // Whether to include the "Powered by discord-html-transcripts" footer
+    poweredBy: true, // Whether to include the "Powered by shadow-transcripts" footer
     hydrate: true, // Whether to hydrate the html server-side
     filter: (message) => true // Filter messages, e.g. (message) => !message.author.bot
 });
