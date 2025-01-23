@@ -104,4 +104,4 @@ const attachment = await discordTranscripts.generateFromMessages(messages, chann
 
 ## 🤝 Enjoy the package?
 
-Give it a star ⭐ and/or support me on [ko-fi](https://ko-fi.com/derock)
+You can support me here ;) [tipply](https://tipply.pl/@shadow64gg)
